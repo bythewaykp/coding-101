@@ -8,8 +8,11 @@ company:
 - 
 status: solved  
 revisions: 0
+
 link: https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array
+
 created: 2026-05-16 
+
 ---
 
 

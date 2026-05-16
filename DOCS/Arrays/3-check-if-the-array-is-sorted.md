@@ -8,8 +8,11 @@ company:
 - 
 status: solved  
 revisions: 0
+
 link: https://takeuforward.org/plus/dsa/problems/second-largest-element
+
 created: 2026-05-16 
+
 ---
 
 

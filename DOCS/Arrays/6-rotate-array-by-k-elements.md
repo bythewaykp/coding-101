@@ -8,8 +8,11 @@ company:
 - 
 status: solved  
 revisions: 0
+
 link: https://takeuforward.org/data-structure/rotate-array-by-k-elements
+
 created: 2026-05-16 
+
 ---
 
 

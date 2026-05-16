@@ -8,8 +8,11 @@ company:
 - 
 status: solved  
 revisions: 0
+
 link: https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array
+
 created: 2026-05-16 
+
 ---
 
 

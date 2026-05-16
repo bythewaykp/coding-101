@@ -5,11 +5,14 @@ difficulty: easy
 pattern:  
 - array  
 company:  
-- 
+
 status: solved  
 revisions: 0
+
 link: https://takeuforward.org/data-structure/find-the-largest-element-in-an-array
+
 created: 2026-05-16 
+
 ---
 
 
