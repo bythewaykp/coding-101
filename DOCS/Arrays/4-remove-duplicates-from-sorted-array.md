@@ -18,7 +18,7 @@ created: 2026-05-16
 
 
 ```java
-package org.example.array;  
+package array;  
   
   
 import java.util.*;  
