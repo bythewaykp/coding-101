@@ -11,7 +11,7 @@ revisions: 0
 
 link: https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array
 
-created: 2026-05-16 
+created: 2026-05-17
 
 ---
 
